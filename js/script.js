@@ -15,7 +15,7 @@ let number = prompt('Per favore inserisci il numero 21');
 console.log(number)
 
 //CONCATENAZIONE//
-let concat = name_user + surname_user + color + 21;
+let concat = name_user + surname_user + color + number;
 console.log(concat);
 //CONCATENAZIONE//
 
