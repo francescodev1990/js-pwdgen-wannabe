@@ -1,17 +1,16 @@
-
-
+//INSERIRE IL NOME
 let name_user = prompt('Per favore inserisci il tuo nome');
 console.log(name_user);
 
-document.getElementById("salutare").innerHTML = 'Ciao' + " " + name_user;
-console.log('Ciao + name_user');
-
+//INSERIRE IL COGNOME
 let surname_user = prompt('Per favore inserisci il tuo cognome');
 console.log(surname_user);
 
+//INSERIRE IL COLORE
 let color = prompt('Per favore inserisci il tuo colore preferito');
 console.log(color);
 
+//INSERIRE IL NUMERO 21
 let number = prompt('Per favore inserisci il numero 21');
 console.log(number)
 

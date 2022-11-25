@@ -4,5 +4,17 @@
     box-sizing: border-box;
 }
 body{
-    background-color: cornflowerblue;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+body:hover{
+    cursor: pointer;
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+
